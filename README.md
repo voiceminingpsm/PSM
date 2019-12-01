@@ -6,6 +6,7 @@
     <img src="https://raw.githubusercontent.com/voiceminingpsm/PSM/master/img/logo.png"  alt="Observer">
 </p>
 # Ekibimiz
+
 ~Ahmet Zahid ARICAN
 ~Mehmet AYDIN
 
