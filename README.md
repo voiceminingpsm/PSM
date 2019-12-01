@@ -5,19 +5,17 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/voiceminingpsm/PSM/master/img/logo.png"  alt="Observer">
 </p>
-
 # Ekibimiz
 ~Ahmet Zahid ARICAN
-
 ~Mehmet AYDIN
 
 # Kurulum
 PyCharm gerekliliği vardır.Diğer ideler pyaudio kütüphanesinde sorunlar yaşatmaktadır.
 Python 3.6 alt yapısına sahiptir.
 Nltk kütüphanesini dahil etmeyi unutmayınız.
-git clone https://github.com/voiceminingpsm/PSM.git komutu ile kolayca kurulumunu yapabilirsiniz.
-Main.py Ses analizi için kullandığıımız classdır.
-VoiceMiningPSM kelime analizi için kullandığımız classdır.
+git clone https://github.com/voiceminingpsm/PSM.git ile kolayca kurulumunu yapabilirsiniz.
+VoiceMiningPSM.py main classdır.
+
 # Dahil edilen kütüphaneler
 
 ```
