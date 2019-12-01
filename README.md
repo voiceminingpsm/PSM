@@ -8,6 +8,7 @@
 
 # Ekibimiz
 ~Ahmet Zahid ARICAN
+
 ~Mehmet AYDIN
 
 # Kurulum
@@ -42,11 +43,15 @@ Kullanılan algoritma ve kod yapısı geliştirilip arka tarafta analiz ve AI ku
 Çalışma mantığı dışardan alınan sesi metine çevir.Daha sonrasında o metni Stringler şeklinde saklar ve  kelimenin anlamını ortaya koymak için.
 Kelime analizi yapılır.Amaca uygun sınıfa aktarılır.
 # Referanslar
+
 >https://github.com/stopwords-iso/stopwords-tr
+
 >https://github.com/otuncelli/turkish-stemmer-python
+
 >https://soundcloud.com/user-565970875/sets/tts-turkish
+
 >https://realpython.com/python-speech-recognition/#using-record-to-capture-data-from-a-file
+
 >https://www.linkedin.com/pulse/pythonda-sesli-asistan-oluşturmak-yunus-emre-gündoğmuş/
 
 
-# 
